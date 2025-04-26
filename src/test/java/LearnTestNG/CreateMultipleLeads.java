@@ -56,7 +56,7 @@ public class CreateMultipleLeads {
     @DataProvider
     public Object[][] leaddata(){
         return new Object[][] {
-                {"shyaml","maankr",},
+                {"shyaml","mankar",},
 
 
         };
